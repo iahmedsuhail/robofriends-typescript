@@ -1,9 +1,10 @@
 # robofriends-ts
-Udemy tutorial - adding TypeScript to a react app
+
+My solution for typescripting the Robofriends App from Keiko Corp.
 
 To run the project:
 
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
-4. Start adding types!
+- Clone this repo
+- Run ```npm install```
+- Run ```npm start```
+- Start adding types!
